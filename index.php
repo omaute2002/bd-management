@@ -19,7 +19,7 @@ include 'components/navbar.php';
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Welcome</title>
     <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="/styles.css">
 </head>
 <body>
     <!-- Your welcome or other content goes here -->
